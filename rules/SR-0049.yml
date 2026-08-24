@@ -1,0 +1,12 @@
+uid: SR-0049
+type: system_requirement
+status: approved
+title: Set frame-ancestors to prevent clickjacking
+text: >-
+  Use the frame-ancestors directive to control which origins may embed the page in a
+  frame, preventing clickjacking.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Content Security Policy — Framing"

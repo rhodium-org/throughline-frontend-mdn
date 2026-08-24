@@ -1,0 +1,12 @@
+uid: SR-0045
+type: system_requirement
+status: approved
+title: Set a restrictive default-src
+text: >-
+  Set a restrictive default-src, such as default-src https:, so that every fetch directive
+  without its own value inherits a safe baseline.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Content Security Policy — Default Source"

@@ -1,0 +1,12 @@
+uid: SR-0031
+type: system_requirement
+status: approved
+title: Serve appropriately sized images with srcset and picture
+text: >-
+  Deliver an appropriately sized image to each device using srcset and sizes, and the
+  picture element for art direction, rather than scaling one large image.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Responsive Design — Responsive Images"

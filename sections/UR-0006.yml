@@ -1,0 +1,12 @@
+uid: UR-0006
+type: user_requirement
+status: approved
+title: Progressive Enhancement
+text: >-
+  Layer the experience from a working HTML baseline up through CSS and JavaScript, so core
+  content and functionality survive when advanced features are absent.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "MDN Web Docs: Progressive Enhancement"

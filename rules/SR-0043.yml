@@ -1,0 +1,12 @@
+uid: SR-0043
+type: system_requirement
+status: approved
+title: Feature-detect before using advanced APIs
+text: >-
+  Detect the presence of a browser feature before using it, and provide a graceful
+  fallback where it is unsupported.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Progressive Enhancement — Feature Detection"

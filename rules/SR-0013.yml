@@ -1,0 +1,12 @@
+uid: SR-0013
+type: system_requirement
+status: approved
+title: Give decorative images an empty alt attribute
+text: >-
+  Give a purely decorative image alt='' so screen readers ignore it rather than announcing
+  its filename.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Decorative Images"

@@ -1,0 +1,12 @@
+uid: SR-0017
+type: system_requirement
+status: approved
+title: Give each data table a caption
+text: >-
+  Give a data table a caption element summarising its purpose so screen-reader users
+  understand it before reading the cells.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Table Captions"

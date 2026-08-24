@@ -1,0 +1,12 @@
+uid: SR-0024
+type: system_requirement
+status: approved
+title: Use inheritance rather than repeating declarations
+text: >-
+  Set inherited properties such as color and font-family on a common ancestor instead of
+  repeating them on every descendant.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: CSS Best Practices — Inheritance"

@@ -1,0 +1,12 @@
+uid: SR-0023
+type: system_requirement
+status: approved
+title: Rely on source order for equal-specificity overrides
+text: >-
+  When two rules have equal specificity, rely on source order — the later rule winning —
+  rather than inflating specificity to force a result.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: CSS Best Practices — Source Order"

@@ -1,0 +1,12 @@
+uid: SR-0022
+type: system_requirement
+status: approved
+title: Keep selector specificity low
+text: >-
+  Write the simplest selectors that do the job so that later, equally specific rules can
+  override them without a specificity war.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: CSS Best Practices — Specificity"

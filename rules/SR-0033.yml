@@ -1,0 +1,12 @@
+uid: SR-0033
+type: system_requirement
+status: approved
+title: Scale typography responsively while preserving zoom
+text: >-
+  Scale text with the viewport using media queries or calc() combined with viewport units,
+  in a way that still allows the user to zoom.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Responsive Design — Responsive Typography"

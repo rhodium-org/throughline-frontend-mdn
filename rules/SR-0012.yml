@@ -1,0 +1,12 @@
+uid: SR-0012
+type: system_requirement
+status: approved
+title: Give meaningful images descriptive alt text
+text: >-
+  Give an image that conveys information an alt attribute describing its content and
+  relevance in context.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Image Alternatives"

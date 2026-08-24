@@ -1,0 +1,12 @@
+uid: SR-0021
+type: system_requirement
+status: approved
+title: Avoid !important
+text: >-
+  Do not use the !important flag except as a last resort, because it overrides the normal
+  cascade and makes conflicts hard to debug.
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: CSS Best Practices — Important"

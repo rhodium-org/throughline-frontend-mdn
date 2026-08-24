@@ -1,0 +1,12 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: CSS Best Practices
+text: >-
+  Keep stylesheets maintainable by controlling specificity, using the cascade and
+  inheritance deliberately, and organising rules from generic to specific.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "MDN Web Docs: CSS Best Practices"

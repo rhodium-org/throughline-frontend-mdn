@@ -1,0 +1,12 @@
+uid: UR-0007
+type: user_requirement
+status: approved
+title: Content Security Policy
+text: >-
+  Constrain which resources a page may load and execute with a strict Content Security
+  Policy that mitigates cross-site scripting and injection.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "MDN Web Docs: Content Security Policy"

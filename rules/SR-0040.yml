@@ -1,0 +1,12 @@
+uid: SR-0040
+type: system_requirement
+status: approved
+title: Provide core content and function in plain HTML
+text: >-
+  Provide the essential content and functionality using semantic HTML that works before
+  any CSS or JavaScript is applied.
+links:
+- target: UR-0006
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Progressive Enhancement — Baseline"

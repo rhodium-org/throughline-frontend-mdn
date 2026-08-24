@@ -1,0 +1,18 @@
+throughline-frontend-mdn
+Copyright 2026 Henry J Grech-Cini
+
+This product includes work developed by Dr Henry J Grech-Cini.
+
+Licensed under the Apache License, Version 2.0. See the LICENSE file for the
+full terms.
+
+This repository is a throughline *source*: a requirements graph, not a program. It
+re-expresses MDN Web Docs front-end best practices as a grounded IDD graph so consuming
+projects can compose it with throughline-compose.
+
+MDN Web Docs is published by Mozilla and its contributors; its prose is licensed under
+the Creative Commons Attribution-ShareAlike 2.5 License (CC BY-SA 2.5). The rule text
+re-expressed here in items' `text`/`attrs.source_ref` is derived from that documentation
+and remains the work of Mozilla Contributors and the MDN Web Docs community; this
+repository claims no ownership over that content and reproduces it for interoperability.
+See https://developer.mozilla.org/ for the authoritative source.

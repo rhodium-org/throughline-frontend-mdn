@@ -1,0 +1,12 @@
+uid: SR-0035
+type: system_requirement
+status: approved
+title: Choose the input type that matches the data
+text: >-
+  Use the input type appropriate to the data — email, tel, number, password and so on — to
+  gain built-in validation and the right on-screen keyboard.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Forms — Input Types"

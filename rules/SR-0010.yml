@@ -1,0 +1,12 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: Use real href values, not links as fake buttons
+text: >-
+  Give an a element a genuine URL in href, and use a button for an in-page action rather
+  than a link with href='#' or a javascript: URL.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Links versus Buttons"

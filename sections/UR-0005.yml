@@ -1,0 +1,12 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: Forms
+text: >-
+  Structure and label forms so that controls are understandable, grouped,
+  keyboard-operable and announced correctly by assistive technology.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "MDN Web Docs: Forms"

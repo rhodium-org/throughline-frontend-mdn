@@ -1,0 +1,12 @@
+uid: SR-0011
+type: system_requirement
+status: approved
+title: Provide a skip link to the main content
+text: >-
+  Place a skip link near the start of the page that jumps past repeated navigation to the
+  main content, helping keyboard, switch and voice users.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Skip Links"

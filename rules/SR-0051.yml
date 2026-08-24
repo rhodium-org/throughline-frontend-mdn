@@ -1,0 +1,12 @@
+uid: SR-0051
+type: system_requirement
+status: approved
+title: Test with Content-Security-Policy-Report-Only and reporting
+text: >-
+  Roll a policy out with the Content-Security-Policy-Report-Only header and a report-to
+  endpoint so violations are surfaced before enforcement blocks content.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Content Security Policy — Reporting"

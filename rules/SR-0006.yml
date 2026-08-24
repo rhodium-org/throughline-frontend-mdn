@@ -1,0 +1,12 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: Mark up abbreviations and quotations semantically
+text: >-
+  Wrap an abbreviation in abbr with its expansion in the title attribute, use blockquote
+  for an extended quotation, and cite for the referenced work.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Semantic HTML — Abbreviations and Quotations"

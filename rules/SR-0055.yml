@@ -1,0 +1,12 @@
+uid: SR-0055
+type: system_requirement
+status: approved
+title: Upgrade legacy insecure requests
+text: >-
+  Eliminate mixed content and use the upgrade-insecure-requests directive so any remaining
+  HTTP URLs are fetched over HTTPS.
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Transport Security — Mixed Content"

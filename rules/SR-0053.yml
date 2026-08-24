@@ -1,0 +1,12 @@
+uid: SR-0053
+type: system_requirement
+status: approved
+title: Redirect HTTP to HTTPS permanently
+text: >-
+  Redirect every HTTP request to the same resource over HTTPS with a permanent 301
+  redirect.
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Transport Security — Redirects"

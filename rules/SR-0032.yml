@@ -1,0 +1,12 @@
+uid: SR-0032
+type: system_requirement
+status: approved
+title: Use relative units and avoid fixed widths
+text: >-
+  Size layout and text with relative units such as em, rem and percentages, avoiding fixed
+  pixel widths that cause scrollbars on narrow screens.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Responsive Design — Relative Units"

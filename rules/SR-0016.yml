@@ -1,0 +1,12 @@
+uid: SR-0016
+type: system_requirement
+status: approved
+title: Mark up data tables with header cells and scope
+text: >-
+  Mark header cells of a data table with th and set scope='col' or scope='row' so
+  assistive technology can associate each data cell with its headers.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Data Tables"

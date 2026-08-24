@@ -1,0 +1,12 @@
+uid: SR-0034
+type: system_requirement
+status: approved
+title: Group related controls with fieldset and legend
+text: >-
+  Wrap a set of related controls, such as radio buttons, in a fieldset and describe the
+  group with a legend placed immediately after the opening tag.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Forms — Grouping"

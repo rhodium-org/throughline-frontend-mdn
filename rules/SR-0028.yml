@@ -1,0 +1,12 @@
+uid: SR-0028
+type: system_requirement
+status: approved
+title: Define media-query breakpoints in relative units
+text: >-
+  Express media-query breakpoints in relative units such as em or rem tied to content
+  rather than to specific device pixel dimensions.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Responsive Design — Breakpoints"

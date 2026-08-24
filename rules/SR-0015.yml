@@ -1,0 +1,12 @@
+uid: SR-0015
+type: system_requirement
+status: approved
+title: Associate every form control with a label
+text: >-
+  Associate each form control with a label element whose for attribute matches the
+  control's id, so the label is announced and its click target enlarged.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Form Labels"

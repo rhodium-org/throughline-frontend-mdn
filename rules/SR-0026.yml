@@ -1,0 +1,12 @@
+uid: SR-0026
+type: system_requirement
+status: approved
+title: Include the viewport meta tag
+text: >-
+  Add the meta viewport tag with content='width=device-width, initial-scale=1' so mobile
+  browsers render the page at the device's width rather than a zoomed-out desktop width.
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Responsive Design — Viewport"

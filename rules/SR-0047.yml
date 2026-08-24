@@ -1,0 +1,12 @@
+uid: SR-0047
+type: system_requirement
+status: approved
+title: Avoid unsafe-eval
+text: >-
+  Do not allow unsafe-eval; avoid eval() and similar string-to-code APIs so that the
+  policy cannot be weakened.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Content Security Policy — Eval"

@@ -1,0 +1,12 @@
+uid: SR-0054
+type: system_requirement
+status: approved
+title: Send HSTS with a long max-age and includeSubDomains
+text: >-
+  Send a Strict-Transport-Security header with a long max-age of at least six months, and
+  includeSubDomains, so browsers refuse to connect insecurely.
+links:
+- target: UR-0008
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Transport Security — HSTS"

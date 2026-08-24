@@ -1,0 +1,12 @@
+uid: SR-0044
+type: system_requirement
+status: approved
+title: Deliver the policy in the Content-Security-Policy header
+text: >-
+  Deliver the policy in the Content-Security-Policy HTTP response header rather than a
+  meta tag, so it applies before any content is parsed.
+links:
+- target: UR-0007
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Content Security Policy — Delivery"

@@ -1,0 +1,12 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: Responsive Design
+text: >-
+  Build layouts, media and typography that adapt fluidly to any viewport, working
+  mobile-first from a single-column baseline outward.
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "MDN Web Docs: Responsive Design"

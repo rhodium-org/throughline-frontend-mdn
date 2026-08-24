@@ -1,0 +1,12 @@
+uid: SR-0003
+type: system_requirement
+status: approved
+title: Use a single h1 and do not skip heading levels
+text: >-
+  Give a page one h1 as its primary heading and descend through h2, h3 and so on in order
+  without skipping a level, so the heading outline reflects the content.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Semantic HTML — Headings"

@@ -1,0 +1,12 @@
+uid: SR-0036
+type: system_requirement
+status: approved
+title: Mark mandatory fields with the required attribute
+text: >-
+  Add the required attribute to every mandatory field so the browser enforces it and
+  assistive technology announces it.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Forms — Required Fields"

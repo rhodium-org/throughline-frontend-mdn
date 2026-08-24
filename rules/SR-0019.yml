@@ -1,0 +1,12 @@
+uid: SR-0019
+type: system_requirement
+status: approved
+title: Space interactive targets to prevent mis-activation
+text: >-
+  Leave adequate spacing between adjacent links and controls so users with limited motor
+  control do not activate the wrong target.
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Accessibility — Target Spacing"

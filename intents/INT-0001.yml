@@ -1,0 +1,15 @@
+uid: INT-0001
+type: intent
+status: approved
+title: Front-end code follows the open-web platform's best practices for accessible, semantic, maintainable HTML, CSS and JavaScript
+text: >-
+  MDN Web Docs exists so that front-end code is built on the grain of the open web
+  platform: semantic HTML that describes meaning, CSS that keeps specificity low and
+  layouts fluid, forms and interactions that any person can operate with a keyboard or
+  assistive technology, and pages that are delivered securely and enhance progressively.
+  Following these practices means a page works, is understandable and is maintainable
+  across the widest range of browsers, devices and users, rather than only on the author's
+  machine.
+normative: false
+attrs:
+  source_ref: "MDN Web Docs"

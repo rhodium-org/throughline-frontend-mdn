@@ -1,0 +1,12 @@
+uid: SR-0038
+type: system_requirement
+status: approved
+title: Structure long forms with sections and headings
+text: >-
+  Break a long form into logical sections with headings and structural elements so it is
+  easier to scan, understand and navigate.
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Forms — Structure"

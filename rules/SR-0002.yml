@@ -1,0 +1,12 @@
+uid: SR-0002
+type: system_requirement
+status: approved
+title: Define page structure with document landmarks
+text: >-
+  Lay out the page with the sectioning elements header, nav, main, article, section, aside
+  and footer so the document's structure is exposed to assistive technology.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Semantic HTML — Landmarks"

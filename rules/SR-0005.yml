@@ -1,0 +1,12 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: Use the correct list element for the content
+text: >-
+  Mark up unordered lists with ul, ordered lists with ol, and term-and-definition pairs
+  with dl, dt and dd.
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "MDN Web Docs: Semantic HTML — Lists"
