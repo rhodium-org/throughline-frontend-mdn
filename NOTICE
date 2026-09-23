@@ -8,7 +8,7 @@ full terms.
 
 This repository is a throughline *source*: a requirements graph, not a program. It
 re-expresses MDN Web Docs front-end best practices as a grounded IDD graph so consuming
-projects can compose it with throughline-compose.
+projects can compose it with throughline.
 
 MDN Web Docs is published by Mozilla and its contributors; its prose is licensed under
 the Creative Commons Attribution-ShareAlike 2.5 License (CC BY-SA 2.5). The rule text
