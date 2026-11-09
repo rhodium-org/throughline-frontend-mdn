@@ -1,12 +1,12 @@
 uid: UR-0005
 type: user_requirement
-status: approved
+status: proposed
 title: Forms
-text: >-
-  Structure and label forms so that controls are understandable, grouped,
-  keyboard-operable and announced correctly by assistive technology.
+text: Structure and label forms so that controls are understandable, grouped, keyboard-operable
+  and announced correctly by assistive technology.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "MDN Web Docs: Forms"
+  source_ref: 'MDN Web Docs: Forms'

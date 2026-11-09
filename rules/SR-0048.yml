@@ -1,12 +1,12 @@
 uid: SR-0048
 type: system_requirement
-status: approved
+status: proposed
 title: Allow trusted scripts with nonces or hashes
-text: >-
-  Permit specific trusted scripts using a nonce for dynamically generated content or a
-  hash for static content, in preference to host allowlists.
+text: Permit specific trusted scripts using a nonce for dynamically generated content
+  or a hash for static content, in preference to host allowlists.
+normative: true
 links:
 - target: UR-0007
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Content Security Policy — Nonces and Hashes"
+  source_ref: 'MDN Web Docs: Content Security Policy — Nonces and Hashes'

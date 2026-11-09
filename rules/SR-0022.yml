@@ -1,12 +1,12 @@
 uid: SR-0022
 type: system_requirement
-status: approved
+status: proposed
 title: Keep selector specificity low
-text: >-
-  Write the simplest selectors that do the job so that later, equally specific rules can
-  override them without a specificity war.
+text: Write the simplest selectors that do the job so that later, equally specific
+  rules can override them without a specificity war.
+normative: true
 links:
 - target: UR-0003
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: CSS Best Practices — Specificity"
+  source_ref: 'MDN Web Docs: CSS Best Practices — Specificity'

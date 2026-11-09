@@ -1,12 +1,12 @@
 uid: SR-0037
 type: system_requirement
-status: approved
+status: proposed
 title: State required-field conventions before the form
-text: >-
-  Explain any required-field convention, such as an asterisk, in text before the form so
-  users understand it before reaching the fields.
+text: Explain any required-field convention, such as an asterisk, in text before
+  the form so users understand it before reaching the fields.
+normative: true
 links:
 - target: UR-0005
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Forms — Instructions"
+  source_ref: 'MDN Web Docs: Forms — Instructions'

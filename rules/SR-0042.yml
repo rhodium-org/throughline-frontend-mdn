@@ -1,12 +1,12 @@
 uid: SR-0042
 type: system_requirement
-status: approved
+status: proposed
 title: Layer JavaScript as an interactivity enhancement
-text: >-
-  Add JavaScript as a further layer for enhanced interactivity, keeping primary content
-  and functions usable when it fails or is disabled.
+text: Add JavaScript as a further layer for enhanced interactivity, keeping primary
+  content and functions usable when it fails or is disabled.
+normative: true
 links:
 - target: UR-0006
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Progressive Enhancement — JavaScript Layer"
+  source_ref: 'MDN Web Docs: Progressive Enhancement — JavaScript Layer'

@@ -1,13 +1,13 @@
 uid: UR-0002
 type: user_requirement
-status: approved
+status: proposed
 title: Accessibility
-text: >-
-  Make content operable and understandable for everyone, including keyboard and
+text: Make content operable and understandable for everyone, including keyboard and
   assistive-technology users, through accessible markup, text alternatives and focus
   management.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "MDN Web Docs: Accessibility"
+  source_ref: 'MDN Web Docs: Accessibility'

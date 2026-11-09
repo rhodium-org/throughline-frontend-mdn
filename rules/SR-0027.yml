@@ -1,12 +1,12 @@
 uid: SR-0027
 type: system_requirement
-status: approved
+status: proposed
 title: Design mobile-first from a single-column baseline
-text: >-
-  Design the narrow-screen single-column layout first, then add media queries that
-  introduce multi-column layouts as the viewport widens.
+text: Design the narrow-screen single-column layout first, then add media queries
+  that introduce multi-column layouts as the viewport widens.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Responsive Design — Mobile First"
+  source_ref: 'MDN Web Docs: Responsive Design — Mobile First'

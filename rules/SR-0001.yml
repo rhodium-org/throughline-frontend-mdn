@@ -1,12 +1,12 @@
 uid: SR-0001
 type: system_requirement
-status: approved
+status: proposed
 title: Use semantic elements for their meaning, not div and span
-text: >-
-  Use the HTML element that describes the meaning of the content rather than a generic div
-  or span, so browsers and assistive technology understand its role.
+text: Use the HTML element that describes the meaning of the content rather than
+  a generic div or span, so browsers and assistive technology understand its role.
+normative: true
 links:
 - target: UR-0001
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Semantic HTML — Elements"
+  source_ref: 'MDN Web Docs: Semantic HTML — Elements'

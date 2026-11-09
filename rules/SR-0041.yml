@@ -1,12 +1,12 @@
 uid: SR-0041
 type: system_requirement
-status: approved
+status: proposed
 title: Layer CSS as a presentation enhancement
-text: >-
-  Add CSS as a layer that improves presentation and layout without the core content
+text: Add CSS as a layer that improves presentation and layout without the core content
   depending on it.
+normative: true
 links:
 - target: UR-0006
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Progressive Enhancement — CSS Layer"
+  source_ref: 'MDN Web Docs: Progressive Enhancement — CSS Layer'

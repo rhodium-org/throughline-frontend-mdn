@@ -1,12 +1,12 @@
 uid: SR-0039
 type: system_requirement
-status: approved
+status: proposed
 title: Never nest one form inside another
-text: >-
-  Never place a form element inside another form element, as the resulting behaviour is
-  undefined.
+text: Never place a form element inside another form element, as the resulting behaviour
+  is undefined.
+normative: true
 links:
 - target: UR-0005
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Forms — Nesting"
+  source_ref: 'MDN Web Docs: Forms — Nesting'

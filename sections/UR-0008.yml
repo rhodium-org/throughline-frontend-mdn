@@ -1,12 +1,12 @@
 uid: UR-0008
 type: user_requirement
-status: approved
+status: proposed
 title: Transport Security
-text: >-
-  Deliver every resource over HTTPS and enforce it with redirects, HSTS and the removal of
-  mixed content.
+text: Deliver every resource over HTTPS and enforce it with redirects, HSTS and the
+  removal of mixed content.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "MDN Web Docs: Transport Security"
+  source_ref: 'MDN Web Docs: Transport Security'

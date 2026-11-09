@@ -1,12 +1,12 @@
 uid: SR-0020
 type: system_requirement
-status: approved
+status: proposed
 title: Style with classes rather than IDs
-text: >-
-  Style elements with class selectors rather than ID selectors so specificity stays low
-  and rules remain easy to override.
+text: Style elements with class selectors rather than ID selectors so specificity
+  stays low and rules remain easy to override.
+normative: true
 links:
 - target: UR-0003
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: CSS Best Practices — Selectors"
+  source_ref: 'MDN Web Docs: CSS Best Practices — Selectors'

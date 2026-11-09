@@ -1,12 +1,12 @@
 uid: SR-0029
 type: system_requirement
-status: approved
+status: proposed
 title: Build flexible layouts with Flexbox and Grid
-text: >-
-  Build layouts that grow and shrink with the viewport using Flexbox and CSS Grid, for
-  example the fr unit for proportional grid tracks, rather than fixed widths.
+text: Build layouts that grow and shrink with the viewport using Flexbox and CSS
+  Grid, for example the fr unit for proportional grid tracks, rather than fixed widths.
+normative: true
 links:
 - target: UR-0004
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Responsive Design — Flexible Layout"
+  source_ref: 'MDN Web Docs: Responsive Design — Flexible Layout'

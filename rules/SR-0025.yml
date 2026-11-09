@@ -1,12 +1,12 @@
 uid: SR-0025
 type: system_requirement
-status: approved
+status: proposed
 title: Define generic styles first, then refine with classes
-text: >-
-  Establish base styles on element selectors first, then override only the differing
+text: Establish base styles on element selectors first, then override only the differing
   properties with more specific class rules.
+normative: true
 links:
 - target: UR-0003
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: CSS Best Practices — Organisation"
+  source_ref: 'MDN Web Docs: CSS Best Practices — Organisation'

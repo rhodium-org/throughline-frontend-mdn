@@ -1,12 +1,12 @@
 uid: SR-0046
 type: system_requirement
-status: approved
+status: proposed
 title: Avoid unsafe-inline for scripts and styles
-text: >-
-  Do not allow unsafe-inline; move inline scripts, styles and event-handler attributes
+text: Do not allow unsafe-inline; move inline scripts, styles and event-handler attributes
   into files so injected markup cannot execute.
+normative: true
 links:
 - target: UR-0007
   type: implements
 attrs:
-  source_ref: "MDN Web Docs: Content Security Policy — Inline"
+  source_ref: 'MDN Web Docs: Content Security Policy — Inline'
